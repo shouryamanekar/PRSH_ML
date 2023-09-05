@@ -26,7 +26,7 @@ In conclusion, this research project, utilizing machine learning techniques, con
 - **/docs**: Contains additional documentation, references, and supplementary material related to the research.
 
 ### How to Use This Repository
-1. Clone the repository to your local machine using `git clone https://github.com/username/repo.git`.
+1. Clone the repository to your local machine using `git clone https://github.com/shouryamanekar/PRSH_ML`.
 2. Navigate to the `/code` directory and follow the Jupyter notebooks to understand the data preprocessing and model training steps.
 3. Explore the `/results` directory to view the outputs and visualizations generated during the analysis.
 4. Refer to the `/docs` directory for additional information, references, and further reading.
